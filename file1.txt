@@ -9,5 +9,5 @@ test file
   나는 sweDemo2 입니다. 외부 contributor 입니다
   안뇽~~~
   
-  나는 naver1 입니다. 외부 contributor입니다
+  외부 contributor입니다
   
